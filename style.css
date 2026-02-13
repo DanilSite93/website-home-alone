@@ -1,0 +1,137 @@
+body{
+    margin: 0;
+    background-color: black;
+    font-family: Arial, sans-serif;
+}
+
+
+/* HEADER */
+.header {
+    background-color: black;
+    height: 140px;
+}
+
+.logo{
+    color:#04A307;
+    font-size: 50px;
+}
+
+.logo-img {
+    height: 100px;
+    vertical-align: middle;
+}
+
+.logo-sub{
+    color: white;
+    font-size: 30px;
+}
+
+/* MAIN */
+
+.main{
+    background-color: white;
+    width: 100%;
+    padding: 20px;
+}
+
+.movie-title{
+    text-align: center;
+    font-size: 50px;
+}
+
+.movie-poster{
+    width: 400px;
+}
+
+.selection-title{
+    font-size: 50px;
+}
+
+.info-table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    font-size: 35px;
+}
+
+.info-table td{
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.rating{
+    font-size: 40px;
+}
+
+.rating-score{
+    color: #04A307;
+    font-size: 80px;
+}
+
+.description{
+    font-size: 30px;
+}
+
+.frame{
+    height: 600px;
+}
+
+.rewiew{
+    font-size: 50px;
+    border-collapse:collapse ;
+    background-color: #7ff181;
+}
+
+.rewiew td{
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.rewiew-name{
+    width: 900px;
+}
+
+.rewiew-text{
+    width: 1200px;
+    font-size: 30px;
+}
+
+.rewiew-score{
+    width: 150px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.rewiew-bad{
+    margin-top: 20px;
+    font-size: 50px;
+    border-collapse:collapse ;
+    background-color: #fc6363;
+}
+
+.rewiew-bad td{
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.rewiew-name{
+    width: 900px;
+}
+
+.rewiew-text{
+    width: 1200px;
+    font-size: 30px;
+}
+
+.rewiew-score{
+    width: 150px;
+    text-align: center;
+    font-size: 40px;
+}
+
+/* FOOTER */
+.footer{
+    background-color: black;
+    height: 120px;
+    text-align: center;
+    color: white;
+}
